@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #6F6F6F;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+}
+header button {
+    border: none;
+    background-color: #6F6F6F;
+    color: white;
+    cursor: pointer;
+}
+.main {
+    background-color: #C4C4C4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: url(../img/2.jpg);
+    color: saddlebrown;
+}
+.main img {
+    margin-top: 150px;
+    margin-right: 239px;
+    margin-bottom: 305px;
+    width: 620px;
+    height: 529px;
+}
+.main a {
+    margin-top: 304px;
+    margin-left: 277px;
+    margin-bottom: 651px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.main button {
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    margin-top: 20px;
+    width: 256px;
+    height: 55px;
+}
+.main_2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: #FFD2D2;
+}
+.title {
+    margin-top: 158px;
+    margin-right: 600px;
+    margin-left: 808px;
+    display: flex;
+    margin-bottom: 30px;
+    padding-left: 80px;
+    align-items: center;
+}
+.block {
+    width: 301px;
+    height: 305px;
+    padding-left: 80px;
+    margin-left: 80px;
+    border-radius: 400px;
+    margin-right: 180px;
+    margin-top: 387px;
+    margin-bottom: 388px;
+}
+.main_3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F9FAC7;
+}
+.title_3{
+    display: flex;
+}
+.block_2{
+    margin-top: 278px;
+    margin-bottom: 323px;
+    width: 500px;
+    height: 550px;
+    background-color: #C4C4C4;
+    margin-right: 70px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #BBFFF3;
+}
+.block_4{
+    line-height: 30px;
+    font-size: 23px;
+}
+.block_5{
+    font-size: 23px;
+}
+.imagetit{
+    width: 381px;
+    height: 305px;
+    border-radius: 500px;
+    cursor: pointer;
+}
+.img14{
+    width: 381px;
+    height: 305px;
+    border-radius: 500px;
+    cursor: pointer;
+}
+.img115{
+    width: 381px;
+    height: 305px;
+    border-radius: 500px;
+    cursor: pointer;
+}
+.rez{
+    width: 500px;
+    height: 550px;
+}
+.rez2{
+    width: 500px;
+    height: 550px;
+}
+.rez3{
+    width: 500px;
+    height: 550px;
+}
